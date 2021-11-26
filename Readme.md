@@ -5,3 +5,6 @@
 
 ### CQS48 - Bulldog
 ![CQS48 - Bulldog - LG](https://user-images.githubusercontent.com/11794877/143465504-796d7b30-987a-40f2-bbf9-342dcfdf8343.png)
+
+### BR75 - Battle Rifle
+![BR75 - Battle Rifle - LG](https://user-images.githubusercontent.com/11794877/143597867-75aab129-9cc1-46c1-a016-3cb86a0f2708.png)
