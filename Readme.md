@@ -13,4 +13,4 @@
 ![VK78 - Commando - LG](https://user-images.githubusercontent.com/11794877/143662233-92c55b25-4a80-48b2-96f4-16300638929f.png)
 
 ### M41 - SPNKR
-![M41 - SPNKR - LG](https://user-images.githubusercontent.com/11794877/143689714-778128ac-778f-4280-b08a-d8bb0758a4f3.png)
+![M41 - SPNKR - LG](https://user-images.githubusercontent.com/11794877/143689771-e03dcc6c-a657-498b-acae-7e431979341b.png)
