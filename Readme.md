@@ -22,3 +22,6 @@
 
 ### S7 - Sniper Rifle
 ![S7 - Sniper Rifle - LG](https://user-images.githubusercontent.com/11794877/143782804-0688e89a-2fed-4f3b-b3b8-2c27f03d2747.png)
+
+### Stalker - Rifle
+![Stalker - Rifle - LG](https://user-images.githubusercontent.com/11794877/143886604-3d5a0f8a-c5b8-4daf-8505-645242c8b191.png)
