@@ -25,3 +25,6 @@
 
 ### Stalker - Rifle
 ![Stalker - Rifle - LG](https://user-images.githubusercontent.com/11794877/143886604-3d5a0f8a-c5b8-4daf-8505-645242c8b191.png)
+
+### Shock Rifle
+![Shock Rifle - LG](https://user-images.githubusercontent.com/11794877/144071810-0477646f-7d79-4920-ac27-04880bd904f5.png)
