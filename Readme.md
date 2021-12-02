@@ -28,3 +28,6 @@
 
 ### Shock Rifle
 ![Shock Rifle - LG](https://user-images.githubusercontent.com/11794877/144072069-b7ed3fbc-42a0-449d-ad16-6941cfe3946e.png)
+
+### Skewer
+![Skewer - LG](https://user-images.githubusercontent.com/11794877/144257387-9af36a38-021f-43c3-94ca-2c1f8ac20c27.png)
