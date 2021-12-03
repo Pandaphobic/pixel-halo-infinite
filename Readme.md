@@ -35,3 +35,5 @@
 ### Needler
 ![Needler - LG](https://user-images.githubusercontent.com/11794877/144445835-111d4048-fdc0-48d5-93ad-a38162628355.png)
 
+### Energy Sword - Banished
+![Banished Energy Sword - LG](https://user-images.githubusercontent.com/11794877/144619209-3c748fbc-8d8d-484a-bcce-cfa401f8d892.png)
