@@ -37,3 +37,7 @@
 
 ### Energy Sword - Banished
 ![Banished Energy Sword - LG](https://user-images.githubusercontent.com/11794877/144619209-3c748fbc-8d8d-484a-bcce-cfa401f8d892.png)
+
+### Pulse Carbine - Covenant
+![Pulse Carbine - Covenant - LG](https://user-images.githubusercontent.com/11794877/144715884-5dda83f4-ae5d-46f8-9f12-9dac7e910a63.png)
+
